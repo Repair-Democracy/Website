@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are a small group of friends who, after the 2024 election, began meeting to find ways to resist the policies and actions of the extremists gaining power in our country. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: America/Los_Angeles
 bluesky_username:
 github_username:
 
