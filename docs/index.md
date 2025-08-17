@@ -4,7 +4,7 @@
 
 layout: home
 ---
-As part of our effort to find effective ways to resist, we have created this t-shirt to raise funds for the [ACLU][aclu].
+As part of our effort to find effective ways to resist the onslaught of attacks on democracy, we have created this t-shirt to raise funds for the [ACLU][aclu].
 The ACLU has been a steadfast defender the rights of all Americans for decades through litigation and education. Their work today includes defending the rights of immigrants and LBGBTQ+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
 
 ![](https://shop.worxprinting.coop/cdn/shop/files/downtheballot-01.png?v=1707835377&width=990)
