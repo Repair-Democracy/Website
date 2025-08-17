@@ -9,7 +9,7 @@ shirt_url: "https://shop.worxprinting.coop/products/save-democracy-shirt?_pos=3&
 We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the policies and actions of the extremists gaining power in our country. 
 
 As part of this work we created a t-shirt to raise funds for the [ACLU][aclu].
-The ACLU has been a steadfast defender the rights of all Americans for decades through litigation and education. Their work today includes defending the rights of immigrants and LGBTQIA+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
+The ACLU has been a steadfast defender the rights of all Americans for decades through litigation and education. Their work today includes defending the rights of immigrants and LGBTQIA2S+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
 
 All of the proceeds (beyond production costs) go directly to the ACLU. The shirts are 100% cotton, made in the US, and printed at a union shop.
 
