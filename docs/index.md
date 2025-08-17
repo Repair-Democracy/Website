@@ -11,7 +11,7 @@ We are a small group of friends who, after the 2024 election, began sharing idea
 As part of this work we created a t-shirt to raise funds for the [ACLU][aclu].
 The ACLU has been a steadfast defender the rights of all Americans for decades through litigation and education. Their work today includes defending the rights of immigrants and LGBTQIA+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
 
-100% of all proceeds (beyond the production costs) go directly to the ACLU. The shirts are 100% cotton, made in the US, and printed at a union shop.
+All of the proceeds (beyond production costs) go directly to the ACLU. The shirts are 100% cotton, made in the US, and printed at a union shop.
 
 If you would like one of your own, the **Order a Shirt** button to the right will take you to our printer's site where you can place an order.
 
