@@ -6,7 +6,10 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-  {{ content }}
+  
+  <div id="wrap" style="width:100%">
+    <img class="right" src="{{ page.shirt_url }}" style="float: right; width: 50%;" />
+    {{ content }}
+  </div>
 
 </div>
