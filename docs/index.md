@@ -4,13 +4,14 @@
 
 layout: home
 ---
-As part of our search to find effective ways to resist and to support those who had, we created this t-shirt to raise funds for the [ACLU][aclu], which has defended the rights of all Americans for decades through litigation and education. Their work today includes defending the rights of immigrants and LBGBTQ+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
+As part of our effort to find effective ways to resist, we have created this t-shirt to raise funds for the [ACLU][aclu].
+The ACLU has been a steadfast defender the rights of all Americans for decades through litigation and education. Their work today includes defending the rights of immigrants and LBGBTQ+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
 
 ![](https://shop.worxprinting.coop/cdn/shop/files/downtheballot-01.png?v=1707835377&width=990)
 
-If you would like one of your own, [click here to go to the order page][order].
-
 100% of all proceeds (beyond the production costs) will go directly to the ACLU. The shirts are 100% cotton, made in the US, and printed at a union shop.
+
+If you would like one of your own, [click here to go to our printer's site where you can place an order][order].
 
 And if t-shirts aren’t your thing, consider [donating to the ACLU][aclu-donate] anyway. Their expertise and tireless commitment inspire us in our goal of repairing our democracy.
 
