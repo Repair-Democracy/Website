@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: shirt
-shirt_img: "https://shop.worxprinting.coop/cdn/shop/files/downtheballot-01.png"
-shirt_url: "https://shop.worxprinting.coop/products/save-democracy-shirt?_pos=3&_sid=a77e0985f&_ss=r"
+shirt_img: "https://shop.worxprinting.coop/cdn/shop/files/RepairDemocracymockup.png"
+shirt_url: "https://shop.worxprinting.coop/products/repair-democracy-asphalt-t-shirt"
 ---
 We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the policies and actions of the extremists gaining power in our country. 
 
