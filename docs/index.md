@@ -13,7 +13,7 @@ We are a small group of friends who, after the 2024 election, began sharing idea
 
 ## Our Project
 As part of this work we created a t-shirt to raise funds for the [ACLU][aclu].
-The ACLU has been a steadfast defender the rights of all Americans for decades through litigation and education.
+The ACLU has been a steadfast defender of the rights of all Americans for decades through litigation and education.
 
 Their work today includes defending the rights of immigrants and LGBTQIA2S+ people, preserving an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
 
