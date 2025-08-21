@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: shirt
+title: ""
 shirt_img: "https://shop.worxprinting.coop/cdn/shop/files/RepairDemocracymockup.png"
 shirt_url: "https://shop.worxprinting.coop/products/repair-democracy-asphalt-t-shirt"
 ---
