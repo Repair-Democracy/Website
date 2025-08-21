@@ -6,6 +6,7 @@ layout: shirt
 shirt_img: "https://shop.worxprinting.coop/cdn/shop/files/RepairDemocracymockup.png"
 shirt_url: "https://shop.worxprinting.coop/products/repair-democracy-asphalt-t-shirt"
 ---
+
 ## About Us
 We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the policies and actions of the extremists gaining power in our country. 
 
