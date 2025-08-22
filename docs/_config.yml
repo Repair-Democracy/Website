@@ -28,6 +28,11 @@ timezone: America/Los_Angeles
 bluesky_username:
 github_username:
 
+# XXX Hack to prevent empty nav hamburger menu on small devices. Might be better to do this
+# in header.html based on the page count, but then again the page count is, supposedly, already
+# guarding against an empty nav...
+enable_nav: false
+
 # Build settings
 markdown: kramdown
 theme: minima

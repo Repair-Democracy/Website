@@ -10,7 +10,7 @@
     </div>
    
 
-    {%- if page_paths -%}
+    {%- if page_paths and site.enable_nav == true -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
