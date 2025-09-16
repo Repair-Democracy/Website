@@ -12,6 +12,7 @@ shirt_url: "https://shop.worxprinting.coop/products/repair-democracy-asphalt-t-s
 We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the policies and actions of the extremists attacking our democracy. 
 
 ## Our Project
+### Because democracy can't repair itself, we need to speak, vote, and resist.
 As part of this work we created a t-shirt to raise funds for the [ACLU][aclu].
 The ACLU has been a steadfast defender of the rights of all Americans for decades through litigation and education.
 
