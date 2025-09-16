@@ -17,7 +17,7 @@ The ACLU has been a steadfast defender of the rights of all Americans for decade
 
 Their work today includes defending the rights of immigrants and LGBTQIA2S+ people, restoring an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
 
-The shirts are 100% cotton, made in the US, and printed at a union shop. Five dollars from the sale of each shirt (everything beyond the production cost) goes to the ACLU.
+The shirts are made in the US and printed at a union shop. They are dark gray with an ivory-colored design, 100% cotton, and cost $24.99 apiece – out of which five dollars (everything beyond the production cost) goes to the ACLU.
 
 If you would like one of your own, the **Order a Shirt** button will take you to our printer's site where you can place an order.
 
