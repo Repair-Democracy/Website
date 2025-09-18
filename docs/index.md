@@ -13,8 +13,10 @@ button_sublabel: "($24.99 + shipping)"
 ## About Us
 We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the rise of authoritarianism in our country. 
 
-As a first project, we created this t&#8209;shirt to raise funds for the ACLU,
-a steadfast defender of the rights of all Americans for decades, through litigation and education.
+<span id="first-project">
+As our first project, we created this t&#8209;shirt to raise funds for the ACLU,
+</span>
+a&nbsp;steadfast defender of the rights of all Americans for decades, through litigation and education.
 
 ## Our Project
 ### Because democracy can't repair itself, we speak, vote, and resist.
