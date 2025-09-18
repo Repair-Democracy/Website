@@ -11,14 +11,15 @@ button_sublabel: "($24.99 + shipping)"
 ---
 
 ## About Us
-We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the policies and actions of the extremists attacking our democracy. 
+We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the rise of authoritarianism in our country. 
 
-## Our Project
-### Because democracy can't repair itself, we speak, vote, and resist.
 As a first project, we created this t&#8209;shirt to raise funds for the ACLU,
 a steadfast defender of the rights of all Americans for decades, through litigation and education.
 
-Their work today includes defending the rights of immigrants and LGBTQIA2S+ people, restoring an independent judiciary, fighting for racial justice and women’s health care, and protecting the First Amendment.
+## Our Project
+### Because democracy can't repair itself, we speak, vote, and resist.
+
+Today, the ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, restore an independent judiciary, fight for racial justice and women’s health care, and protect the First Amendment.
 
 The shirts are ivory on dark gray, 100% cotton, made in the US, and printed at a union shop. Five dollars from the sale of each shirt (everything beyond the production cost) goes to the ACLU.
 
