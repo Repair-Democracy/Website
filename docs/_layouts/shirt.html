@@ -8,12 +8,22 @@ layout: default
   {%- endif -%}
   
   <div id="wrap" style="width:100%">
-    <div class="right" style="float: right; width: 60%;">
-        <img src="{{ page.shirt_img }}" />
+    <div id="product">
+        <img src="{{ page.product_img }}"/>
 
-        <a class="button" href="{{ page.shirt_url }}">
-          <div id="button-label">{{ page.button_label }}</div>
-          <div id="button-sublabel">{{ page.button_sublabel }}</div></a>
+        <div id="product-action">
+          <a id="product-button" class="button" href="{{ page.product_url }}">
+            <div id="product-button-label">{{ page.product_button_label }}</div>
+            <div id="product-button-sublabel">{{ page.product_button_sublabel }}</div>
+          </a>
+          <div id="product-info">
+            <ul>
+              <li>Dark Grey Short Sleeve T-shirt: $24.99</li>
+              <li>Dark Blue Long Sleeve T-shirt: $29.99</li>
+              <li>Black Hoodie with Pocket: $54.99</li>
+            </ul>
+          </div>
+        </div>
     </div>
 
     {{ content }}

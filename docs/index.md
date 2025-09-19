@@ -4,10 +4,10 @@
 
 layout: shirt
 title: ""
-shirt_img: "https://shop.worxprinting.coop/cdn/shop/files/RepairDemocracymockup.png"
-shirt_url: "https://shop.worxprinting.coop/collections/repair-democracy"
-button_label: "ORDER A SHIRT"
-button_sublabel: "($24.99 + shipping)"
+product_img: "assets/3-shirts-vertical-short.jpg"
+product_url: "https://shop.worxprinting.coop/collections/repair-democracy"
+product_button_label: "ORDER A SHIRT"
+product_button_sublabel: ""
 ---
 
 ## About Us
@@ -25,9 +25,9 @@ Today, the ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, 
 
 The shirts are ivory on dark gray, 100% cotton, made in the US, and printed at a union shop. Five dollars from the sale of each shirt (everything beyond the production cost) goes to the ACLU.
 
-If you would like one of your own, the **{{ page.button_label }}** button will take you to our printer's site where you can place an order.
+If you would like one of your own, the **{{ page.product_button_label }}** button will take you to our printer's site where you can place an order.
 
-And if t-shirts aren’t your thing, consider [donating to the ACLU][aclu-donate] anyway. Their expertise and tireless commitment inspire us in our goal of repairing our democracy.
+And if shirts and hoodies aren’t your thing, consider [donating to the ACLU][aclu-donate] anyway. Their expertise and tireless commitment inspire us in our goal of repairing our democracy.
 
 [aclu]: <https://aclu.org>
 [aclu-donate]: <https://aclu.org/give/now>
