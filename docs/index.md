@@ -14,7 +14,7 @@ product_button_sublabel: ""
 We are a small group of friends who, after the 2024 election, began sharing ideas for resisting the rise of authoritarianism in our country. 
 
 <span id="first-project">
-As our first project, we created this t&#8209;shirt to raise funds for the ACLU,
+As our first project, we created these shirts to encourage grassroots action to repair our democracy and to raise funds for the ACLU,
 </span>
 a&nbsp;steadfast defender of the rights of all Americans for decades, through litigation and education.
 
@@ -23,7 +23,7 @@ a&nbsp;steadfast defender of the rights of all Americans for decades, through li
 
 Today, the ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, restore an independent judiciary, fight for racial justice and women’s health care, and protect the First Amendment.
 
-The shirts are ivory on dark gray, 100% cotton, made in the US, and printed at a union shop. Five dollars from the sale of each shirt (everything beyond the production cost) goes to the ACLU.
+The shirts are 100% cotton, made in the US, and printed at a union shop. Five dollars from the sale of each shirt (everything beyond the production cost) goes to the ACLU.
 
 If you would like one of your own, the **{{ page.product_button_label }}** button will take you to our printer's site where you can place an order.
 
