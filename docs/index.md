@@ -5,7 +5,7 @@
 layout: shirt
 title: ""
 shirt_img: "https://shop.worxprinting.coop/cdn/shop/files/RepairDemocracymockup.png"
-shirt_url: "https://shop.worxprinting.coop/products/repair-democracy-asphalt-t-shirt"
+shirt_url: "https://shop.worxprinting.coop/collections/repair-democracy"
 button_label: "ORDER A SHIRT"
 button_sublabel: "($24.99 + shipping)"
 ---
