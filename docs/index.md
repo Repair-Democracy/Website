@@ -19,7 +19,7 @@ As our first project, we created these shirts to encourage grassroots activism a
 a&nbsp;steadfast defender of the rights of all Americans for decades, through litigation and education.
 
 ## Our Project
-<span id="because">Because democracy can't repair itself, we speak, vote, and resist.</span>
+<span id="because">Because democracy doesn't repair itself, we speak, vote, and resist.</span>
 
 The ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, restore an independent judiciary, fight for racial justice and women’s health care, and protect the First Amendment.
 
