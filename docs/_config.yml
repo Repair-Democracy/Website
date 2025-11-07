@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: America/Los_Angeles
 bluesky_username:
 github_username:
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # XXX Hack to prevent empty nav hamburger menu on small devices. Might be better to do this
 # in header.html based on the page count, but then again the page count is, supposedly, already
