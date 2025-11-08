@@ -10,17 +10,17 @@ items:
   - 1:
     description: 
     thumbnail: /assets/stickers/did-you-ever.png
-    download: /assets/stickers/did-you-ever.png
+    download: /assets/stickers/did-you-ever-6up-avery94101.pdf
     labels: 94101
   - 2:
     description:
     thumbnail: /assets/stickers/this-all-ends.png
-    download: /assets/stickers/this-all-ends.png
+    download: /assets/stickers/this-all-ends-6up-avery94101.pdf
     labels: 94101
   - 3:
     description:
     thumbnail: /assets/stickers/repair-democracy.png
-    download: /assets/stickers/repair-democracy.png
+    download: /assets/stickers/repair-democracy-6up-avery94101.pdf
     labels: 94101
 ---
 
