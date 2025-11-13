@@ -1,3 +1,17 @@
+<style>
+  .excerpt_img {
+    float: right;
+    width: 20%;
+  }
+
+  .excerpt_img_bordered {
+    float: right;
+    width: 20%;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+</style>
+
 <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
 <ul class="post-list">
   {%- for post in site.posts -%}
@@ -11,7 +25,12 @@
         {%- endif -%}
 
         {%- if post.excerpt_img -%}
-          <img class="excerpt_image" src="{{ post.excerpt_img }}" style="float: right; width: 20%;" />
+          {%- if post.excerpt_img_bordered -%}
+            {%- assign excerpt_img_class = "excerpt_img_bordered" -%}
+          {%- else -%}
+            {%- assign excerpt_img_class = "excerpt_img" -%}
+          {%- endif -%}
+          <img class="{{ excerpt_img_class }}" src="{{ post.excerpt_img }}" />
         {%- endif -%}
 
         <h3>
