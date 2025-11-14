@@ -26,6 +26,6 @@ items:
 ---
 
 Each of the sticker designs below links to a downloadable page that will print six 3" x 3" stickers on
-[Avery 94101 sticker stock](https://www.avery.com/blank/labels/94101) or compatible stock from other vendors. If you have a different idea in mind, you can also right-click on the sticker image to download a high-resolution image of the individual sticker that you can use to create your own design.
+[Avery 94101 sticker stock](https://www.avery.com/blank/labels/94101) or compatible stock from other vendors. If you have a different idea in mind, you can also right-click on the sticker image to save a single high-resolution copy of image on the individual sticker, which you can then use to create your own design.
 
-All of the designs will also print in black-and-white (if you are printing on a color printer, when you send the file to the printer set the color settings to black-and-white).
+All of the designs will also print in black-and-white. (If you are printing on a color printer, set the color settings to black-and-white.)
