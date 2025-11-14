@@ -4,7 +4,7 @@ title:  "Free Stickers"
 date:   2025-11-04 21:25:57 +0100
 excerpt_img: "/assets/stickers/this-all-ends.png"
 excerpt_img_bordered: true
-excerpt_txt: "Any text in the front matter project_blurb section will be used as the excerpt in preference to the paragraph (up to the except delimiter), so you can write something here if you want to have something different than the first paragraph as your excerpt."
+excerpt_txt: "These stickers are free to download. Place them in public places around town, hand them out at demonstrations, put them on your own laptops/phones/water bottles, or give them to friends and family"
 categories: project update
 item_width: 25%
 items:
