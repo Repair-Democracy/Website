@@ -4,12 +4,12 @@
 
 layout: shirt
 title: "Fundraiser for the ACLU: Shirts & Hoodie"
-excerpt_img: "/assets/aclu/3-shirts-vertical-short.jpg"
+excerpt_img: "/assets/aclu/blue-long-sleeve.png"
 excerpt_txt: >
   <p>As our first project, we created a shirt design to encourage grassroots activism and to raise funds for the ACLU, a&nbsp;steadfast defender of the rights of all Americans for decades, through litigation and education.
   
   <p>The ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, restore an independent judiciary, fight for racial justice and women’s health care, and protect the First Amendment.
-product_img: "/assets/aclu/3-shirts-vertical-short.jpg"
+product_img: "/assets/aclu/3-shirts-horizontal.png"
 product_url: "https://shop.worxprinting.coop/collections/repair-democracy"
 product_button_label: "ORDER A SHIRT"
 product_button_sublabel: ""
