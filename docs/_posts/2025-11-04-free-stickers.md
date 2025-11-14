@@ -4,7 +4,7 @@ title:  "Free Stickers"
 date:   2025-11-04 21:25:57 +0100
 excerpt_img: "/assets/stickers/this-all-ends.png"
 excerpt_img_bordered: true
-excerpt_txt: "We have created a few different stickers that express the sentiments of our resistance movement. They are free to download. Place them in public places around town, hand them out at demonstrations, put them on your own laptops/phones/water bottles, or give them to friends and family."
+excerpt_txt: "We have created a few different stickers that express sentiments from the resistance. They are free to download. Place them in public places around town, hand them out at demonstrations, put them on your own laptops/phones/water bottles, or give them to friends and family."
 categories: project update
 item_width: 25%
 items:
