@@ -29,6 +29,7 @@ bluesky_username:
 github_username:
 show_excerpts: true
 excerpt_separator: <!--more-->
+analytics: true
 
 # XXX Hack to prevent empty nav hamburger menu on small devices. Might be better to do this
 # in header.html based on the page count, but then again the page count is, supposedly, already
