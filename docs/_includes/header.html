@@ -1,9 +1,56 @@
+<style>
+  #site-id {
+    border-bottom: 1px solid;
+  }
+
+  #site-title {
+    margin-top: 42px;
+    text-align: center;
+  }
+
+  #site-title a {
+    color: #4587D1;
+    font-family: 'Arial Black', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0;
+    float: none;
+    clear: both;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 32px;
+  }
+
+  #site-title a:hover {
+    color: #4587D1;
+  }
+  
+  #site-subtitle {
+    clear: both;
+    xcolor: #FFFFFF;
+    xbackground-color: #4587D1;
+    height: 32px;
+    font-family: 'Helvetica Bold', sans-serif;
+    font-size: 24px;
+    line-height: 10px;
+    text-align: center;
+    text-transform: lowercase;
+    padding-top: 16px;
+    margin-bottom: 32px;
+    border-radius: 6px;
+  }
+</style>
 <header class="site-header" role="banner">
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div id="site-id">
+      <!--a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a-->
+      <div id="site-title"><a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></div>
+      <div id="site-subtitle">Speak • Vote • Resist</div>
+    </div>
 
     {%- if page_paths -%}
       <nav class="site-nav">
