@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: shirt
 title: "Fundraiser for the ACLU: Shirts & Hoodie"
+date: 2025-08-16 09:56:14 -0700
+layout: project-product
 excerpt_img: "/assets/aclu/blue-long-sleeve.png"
 excerpt_txt: >
   As our first project, we created a shirt design with our Repair Democracy graphic, to encourage grassroots activism and to raise funds for the ACLU, an&nbsp;unwavering defender of the rights of all Americans for decades, through litigation and education.
