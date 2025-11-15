@@ -1,7 +1,8 @@
 ---
-layout: project-collection-horizontal
 title:  "Free Stickers"
 date:   2025-11-14 21:25:57 +0100
+permlink: /2025-11-14-stickers/
+layout: project-collection-horizontal
 excerpt_img: "/assets/stickers/this-all-ends.png"
 excerpt_img_bordered: true
 excerpt_txt: >
