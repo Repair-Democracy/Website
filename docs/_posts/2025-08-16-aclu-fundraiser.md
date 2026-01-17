@@ -1,5 +1,5 @@
 ---
-title: "Fundraiser for the ACLU: Shirts & Hoodie"
+title: "Repair Democracy Shirts"
 date: 2025-08-16 09:56:14 -0700
 layout: project-product
 excerpt_img: "/assets/aclu/blue-long-sleeve.png"
@@ -10,7 +10,7 @@ product_url: "https://shop.worxprinting.coop/collections/repair-democracy"
 product_button_label: "ORDER A SHIRT"
 product_button_sublabel: ""
 ---
-The ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, restore an independent judiciary, fight for racial justice and women’s health care, and protect the First Amendment.
+We created these shirts as a fundraiser for the ACLU. The ACLU works to defend the rights of immigrants and LGBTQIA2S+ people, restore an independent judiciary, fight for racial justice and women’s health care, and protect the First Amendment.
 
 Our shirts are 100% cotton, made in the US, and printed at a union shop. Five dollars from the sale of each shirt (everything beyond the production cost) goes to the ACLU.
 
